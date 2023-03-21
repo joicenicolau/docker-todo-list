@@ -1,10 +1,7 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Docker To do list
+
+Realizei este projeto no início do módulo de Back-end. Na seção 1 - Docker: utilizando container.
+
+</br>
+
+https://user-images.githubusercontent.com/112522719/226762174-90ed3fec-c575-4a04-8eb7-f2e4bd752f4a.mp4
